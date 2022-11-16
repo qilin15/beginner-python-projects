@@ -1,5 +1,5 @@
 # %%
-## The Game
+## Black Jack Card Game, play against computer 'Dealer'
 
 import random
 
